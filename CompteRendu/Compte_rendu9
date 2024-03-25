@@ -1,0 +1,10 @@
+Compte rendu 9
+
+    -dans le mockup on utilisait readencoders mais il fallait utiliser getmotorposition
+    -accumulateur dans le proxy virtuel et reel: 
+                changement distance parcouru et angle parcouru dans toutes les methodes qui deplacent le robot
+                
+    -derniers ajustements du proxy reel
+    -separation simulation et simulation reelle
+        -debut des tests sur le vrai robot
+    -probleme: le robot avance un peu et tourne à l'infini au lieu de faire un carré

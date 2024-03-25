@@ -1,0 +1,16 @@
+    Compte rendu 7
+-Semaine de partiel donc beaucoup moins de
+temps pour travailler sur le projet
+-On a passé la plupart du temps à modifier et
+corriger les IA, il nous reste plusieurs
+problèmes dont nous avons conscience (IA
+IFTE,distance et angle parcouru si dps trop
+élevé)
+-on a fait l’IA carré qui fonctionne pour le
+moment
+
+reste à faire en priorité :
+- ajouter des tests unitaires
+- mettre à jour la documentation
+- corriger le reste des pbs liés aux IA
+- tester avec le proxy physique

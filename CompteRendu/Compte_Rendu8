@@ -1,0 +1,12 @@
+  Compte rendu 8
+  
+     enlever self.running dans la classe IA.py
+     test des IA avec le proxy virtuel
+     nouvelle implémentation du temps dans la code qui n'était jusque la qu'une variable que l'on changeait arbitrairement
+     IA IFTE qui fonctionne finalement
+ 
+ 
+ Prochaines etapes
+    recherche 3D pour la camera
+    problemes avec proxy physique et mockup
+    commenter code et faire la docs souvent
